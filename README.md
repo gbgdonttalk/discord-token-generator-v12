@@ -3,8 +3,8 @@
 IVE DECIDED TO RELEASE THIS FOR FREE BUT THE SOURCE CODE IS STILL FOR SALE FOR 125$ CHECK RELEASES
 
 
+![alt text](https://github.com/gbgdonttalk/discord-token-generator-v12/blob/main/generator.png?raw=true)
 
-https://raw.githubusercontent.com/gbgdonttalk/discord-token-generator-v12/main/generator.png
 
 
 # discord-token-generator-v12
