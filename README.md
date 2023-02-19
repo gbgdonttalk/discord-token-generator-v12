@@ -1,3 +1,12 @@
+
+
+IVE DECIDED TO RELEASE THIS FOR FREE BUT THE SOURCE CODE IS STILL FOR SALE FOR 125$ CHECK RELEASES
+
+
+
+
+
+
 # discord-token-generator-v12
 TrixTM Token Generator FOR FREE
 
