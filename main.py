@@ -1,1 +1,2 @@
-BUY SOURCE CODE FOR 125$ 
+
+print("https://github.com/gbgdonttalk/discord-token-generator-v12/releases/tag/V12.61 FREE VERSION")
