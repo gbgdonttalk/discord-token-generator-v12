@@ -1,2 +1,2 @@
 
-print("https://github.com/gbgdonttalk/discord-token-generator-v12/releases/tag/V12.61 FREE VERSION")
+print("https://github.com/gbgdonttalk/discord-token-generator-v12/releases/tag/V12.61 FREE VERSIONs")
